@@ -1,0 +1,18 @@
+[
+	{
+		"id":1,
+		"name":"john"
+		"orders":[
+			{"id":101,"product":"laptop","qty":1},
+			{"id":102,"product":"mobile","qty":2}
+		]
+	},
+	{
+		"id":2,
+		"name":"paul"
+		"orders":[
+			{"id":103,"product":"camera","qty":5},
+			{"id":104,"product":"gopro","qty":3}
+		]
+	}
+]
